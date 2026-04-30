@@ -3,3 +3,7 @@ pycache/
 *.zip
 *.csv
 .env
+
+results/figures/*.png
+results/tables/*.txt
+results/tables/*.csv
