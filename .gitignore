@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pycache/
 .ipynb_checkpoints/
 *.zip
@@ -8,3 +9,9 @@ pycache/
 results/figures/*.png
 results/tables/*.txt
 results/tables/*.csvdata/processed/*.csv
+=======
+data/raw/*.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+>>>>>>> cae039f528428a783bb44ad93f6202345d6a4284
