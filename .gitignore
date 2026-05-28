@@ -1,3 +1,13 @@
+pycache/
+.ipynb_checkpoints/
+*.zip
+*.csv
+.env
+.DS_Store
+
+results/figures/*.png
+results/tables/*.txt
+results/tables/*.csvdata/processed/*.csv
 data/raw/*.csv
 .venv/
 __pycache__/
